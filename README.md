@@ -12,8 +12,8 @@ Habilita la API de Google Calendar para tu proyecto.
 Ve a la página de credenciales y crea unas nuevas.
 Cuando te lo solicite, descarga el archivo JSON de las credenciales.
 Paso 2: Configura el archivo credentials.json
-Guarda el archivo JSON de las credenciales como credentials.json en el directorio principal de tu proyecto (veevartTest2/).
-Asegúrate de que el archivo credentials.json contiene las siguientes claves: client_id, project_id, auth_uri, token_uri, auth_provider_x509_cert_url, client_secret, redirect_uris.
+Guarda el archivo JSON de las credenciales como `credentials.json` en el directorio principal de tu proyecto (veevartTest2/).
+Asegúrate de que el archivo credentials.json contiene las siguientes claves: `client_id`, `project_id`, `auth_uri`, `token_uri`, `auth_provider_x509_cert_url`, `client_secret`, `redirect_uris`.
 
 # Uso
 Para usar la aplicación, ejecuta el archivo aplication.py en la consola:
