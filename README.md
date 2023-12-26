@@ -15,7 +15,7 @@ Asegúrate de que el archivo credentials.json contiene las siguientes claves: cl
 # Uso
 Para usar la aplicación, ejecuta el archivo aplication.py en la consola:
 
-`python aplication.py`
+`python application.py`
 
 Se te presentará un menú con las siguientes opciones:
 
