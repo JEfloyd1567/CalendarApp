@@ -1,6 +1,9 @@
 # Aplicación de Google Calendar
-Esta es una aplicación de consola en Python que utiliza la API de Google Calendar para listar, crear, actualizar y eliminar eventos.
+
 Esta aplicación esta escrita en Python 3.11.0.
+
+Esta es una aplicación de consola en Python que utiliza la API de Google Calendar para listar, crear, actualizar y eliminar eventos.
+
 # Configuración
 Paso 1: Obtén las credenciales de Google Cloud
 Ve a la Consola de Google Cloud.
